@@ -1,0 +1,12 @@
+/.vscode
+.DS_Store
+*.csv
+/__pycache__
+/.ipynb_checkpoints
+/model_checkpoints
+*.mp4
+/*/__pycache__
+/dataset
+/example_dataset
+*.jpg
+*.gif

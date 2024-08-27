@@ -1,0 +1,12 @@
+pandas
+numpy
+torch
+torchvision
+torchaudio
+transformers
+pillow
+matplotlib
+scipy
+tqdm
+pyarrow
+albumentations
